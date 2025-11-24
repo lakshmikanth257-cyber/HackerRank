@@ -9,6 +9,8 @@ void split(int n)
     int b=(n/10)%10;
     int c=n%10;
     printf("%d %d %d",a,b,c);
+
+    
 }
 
 int main() {
