@@ -5,6 +5,7 @@
 
 
 void res(){
+    
     int a;
     long long int b;
     char c;
