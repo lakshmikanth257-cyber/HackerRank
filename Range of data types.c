@@ -6,6 +6,7 @@
 #include <float.h>
 
 void data(){
+  
   printf("short: %hd to %hd\n",SHRT_MIN,SHRT_MAX);
      printf("int: %d to %d\n",INT_MIN,INT_MAX);
      printf("long: %ld to %ld\n",LONG_MIN,LONG_MAX);
