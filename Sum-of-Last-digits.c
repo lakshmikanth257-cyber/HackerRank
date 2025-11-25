@@ -10,7 +10,6 @@ int sumLastDigits(int a, int b){
 
 int main() {
 
-
     int f,s;
     scanf("%d %d",&f,&s);
     sumLastDigits(f%10,s%10);
