@@ -12,7 +12,6 @@ void sec(){
     
 }
 
-
 int main() {
 
     
