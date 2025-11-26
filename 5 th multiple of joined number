@@ -13,6 +13,6 @@ void night(){
 int main() {
     night();
 
- 
+
     return 0;
 }
