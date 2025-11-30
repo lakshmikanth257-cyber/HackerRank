@@ -6,6 +6,7 @@
 int main() {
     
     char a;
+    
         scanf("%c",&a);
        printf("The uppercase of %c is %c",a,a-32);
  
