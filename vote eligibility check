@@ -1,0 +1,33 @@
+#include <stdio.h>
+#include <string.h>
+#include <math.h>
+#include <stdlib.h>
+
+int cal( int age){
+    
+    if(age>=18){
+        return 1;
+        
+    }
+    
+    else{
+        return 2;
+        
+    }
+}
+int main() {
+  int age_input;
+  scanf("%d",&age_input);
+  
+  int res = cal(age_input);
+  
+  if(res==1){
+      printf("Eligible");
+  }
+  
+   else{
+       printf("Not Eligible");
+  }
+    
+return 0;
+}
