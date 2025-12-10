@@ -3,8 +3,7 @@
 #include <math.h>
 #include <stdlib.h>
 
-void split(int n)
-{
+void split(int n){
     
     int a=n/100;
     int b=(n/10)%10;
