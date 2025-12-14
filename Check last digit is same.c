@@ -3,6 +3,7 @@
 #include <math.h>
 #include <stdlib.h>
 
+
 int claculate(int num1, int num2) {
     int num3 = num1-((num1/10)*10);
     int num4 = num2-((num2/10)*10);
