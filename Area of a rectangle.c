@@ -10,7 +10,7 @@ void tri(){
     scanf("%d %d",&a,&b);
     printf("The area is: %d units" ,a*b);
     return;
-    
+
 }
 
 
