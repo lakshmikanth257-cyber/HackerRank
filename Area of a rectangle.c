@@ -13,7 +13,7 @@ void tri(){
 
 }
 
-
+    
 int main() {
     tri();
 
